@@ -1,0 +1,44 @@
+body{ 
+    margin: 10%;
+    border:2px solid lightgray;
+
+}
+#box{
+    background-color: turquoise;
+    min-height: 90px;
+    
+}
+#location{
+    display:flex;
+    margin-left: 20px;
+}
+#circle {
+    height: 60px;
+    width: 60px;
+    margin-left: 20px;
+    margin-top: 60px;
+    position: absolute;
+    
+}
+#map{
+    height: 20px;
+    width: 20px;
+}
+h2{
+    margin-left: 20px;
+    margin-top: 30px;
+}
+h3 {
+    margin-left: 10px;
+}
+#profile{
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+#gear{
+    height: 20px;
+    width:20px;
+}
+p {
+    margin-left: 20px;
+}
